@@ -1,7 +1,7 @@
 /**
  * Duel Fight Game - FINISHED
  * Date: 4/09/13
-
+ Name: Timothy Gilbert
  Assignment 1
  Part 1/3 of series
 */
