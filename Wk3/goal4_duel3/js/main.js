@@ -74,10 +74,12 @@
     	 	fighter1_txt.innerHTML = result;
     	 	fighter2_txt.innerHTML= "";
     	 	
-    	 	button.removeEventListener("Click", fight, false); 
+
     	 	
-    	 	document.querySelector('.buttonblue').innerHTML = 'DONE!!!'; 
-    	 }
+    	 	document.querySelector('.buttonblue').innerHTML = 'DONE!!!';
+
+            button.removeEventListener("Click", fight, false);
+         }
     };
 
     function winnerCheck(){ // declare winner check function 
